@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id":1,
+      "title":"Zombie apocolypse",
+      "shortDescription":"A zombie apocolypse has brooked loose!",
+      "category": "world"
+    },
+    {
+      "id":2,
+      "title":"Bitcoin has dropped!",
+      "shortDescription":"Bitcoin took a steep dig this morning!",
+      "category":"financial"
+    },
+    {
+      "id":3,
+      "title":"PS5 has announced its debut",
+      "shortDescription":"Sony has announced the new PS5!!!",
+      "category":"technology"
+    }
+  ]
+}
